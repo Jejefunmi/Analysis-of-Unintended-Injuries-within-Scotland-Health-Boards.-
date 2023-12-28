@@ -6,6 +6,11 @@ The scope of the project encompassed Health board 2014 -Health board 2019.csv an
 
 ## Project Objectives
 
+## Tools
+* Excel
+* Power Querry
+* Python
+
 
 ## Insights
 ### Objective 1
