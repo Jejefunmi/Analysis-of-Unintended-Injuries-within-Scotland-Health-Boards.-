@@ -1,5 +1,5 @@
 # Analysis-of-Unintended-Injuries-within-Scotland-Health-Boards.
 
-# Project Summary
+## Project Summary
 I undertook an analysis project to examine Unintended Injuries within Scotland Health Boards. The goal was to comprehensively assess and understand the landscape of unintentional injuries within Scotland Health Board.
 The scope of the project encompassed Health board 2014 -Health board 2019.csv and Council area 2011 – Council area 2019.csv, with the primary objectives being; understating admission for unintended injuries, Health boar with the largest unintentional injuries  [list the objectives, e.g., understanding customer behavior, improving efficiency, or evaluating the impact of a certain factor]."
