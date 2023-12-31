@@ -64,26 +64,29 @@ Introduce user-friendly technology tools that cater to the specific needs of eld
 
 ## Insights
 ### Objective 1
-admissions for unintentional injuries in Scotland for the finacial year 2022/23 is and the pecentage of these admissions is for falls.
 
+Unintentional Injuries in Year 2023 financial
 ![](https://github.com/Jejefunmi/Analysis-of-Unintentional-Injuries-within-Scotland-Health-Boards/blob/main/Objective%201.png "Unintentional Injuries in Year 2023 finacial")
-Title:"Unintentional Injuries in Year 2023 financial"
+
+"Percentage of Fall"
+![](https://github.com/Jejefunmi/Analysis-of-Unintentional-Injuries-within-Scotland-Health-Boards/blob/main/Objective%201b.png)
 
 
-## Objective 2
-![](https://github.com/Jejefunmi/Analysis-of-Unintentional-Injuries-within-Scotland-Health-Boards/blob/main/Objective%201.png "Unintentional Injuries in Year 2023 finacial")
-Title:"Unintentional Injuries in Year 2023 finacial"
 ### Objective 2
-NHS greater Glasgow Health board has the largest unintentional injuries
+Health Board with the largest Unintentional injuries
+
+![](https://github.com/Jejefunmi/Analysis-of-Unintentional-Injuries-within-Scotland-Health-Boards/blob/main/Objective%202.png)
 
 
 ### Objective 3
- Health board with the largest number of admissions for road traffic accidents in 2019/20 and the percentage of these admissions were for males
+Health board with the largest number of admissions for road traffic accidents in 2019/20
+
+![](https://github.com/Jejefunmi/Analysis-of-Unintentional-Injuries-within-Scotland-Health-Boards/blob/main/Objective%203.png)
 
 
 ### Objective 4
-Percentage change inadmissions for Scaldsin the home in NHS Lothian Health Board from 2019/20 t0 2020/21
-
+NHS Lothian Health Board from 2019/20 t0 2020/21 Percentage change in admissions of Scalds that occur at hom
+![](https://github.com/Jejefunmi/Analysis-of-Unintentional-Injuries-within-Scotland-Health-Boards/blob/main/Objective%204.png)
 
 
 ### Objective 5
