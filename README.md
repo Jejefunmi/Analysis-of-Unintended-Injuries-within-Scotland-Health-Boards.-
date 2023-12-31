@@ -64,11 +64,12 @@ Introduce user-friendly technology tools that cater to the specific needs of eld
 
 ## Insights
 ### Objective 1
-
 Unintentional Injuries in Year 2023 financial
+
 ![](https://github.com/Jejefunmi/Analysis-of-Unintentional-Injuries-within-Scotland-Health-Boards/blob/main/Objective%201.png "Unintentional Injuries in Year 2023 finacial")
 
 "Percentage of Fall"
+
 ![](https://github.com/Jejefunmi/Analysis-of-Unintentional-Injuries-within-Scotland-Health-Boards/blob/main/Objective%201b.png)
 
 
