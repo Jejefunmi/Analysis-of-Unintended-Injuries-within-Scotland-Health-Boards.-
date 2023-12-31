@@ -23,3 +23,6 @@ Title:"Unintentional Injuries in Year 2023 finacial"
 
 
 !["Male on Admission"](https://github.com/Jejefunmi/Analysis-of-Unintentional-Injuries-within-Scotland-Health-Boards/blob/main/GRAPH.png "Male on Admission")
+
+
+## Objective 2
